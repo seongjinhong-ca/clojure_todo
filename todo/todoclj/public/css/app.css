@@ -1,0 +1,9 @@
+.wrap_item_button{
+    display:flex;
+}
+.pl-15{
+    padding-right: 15px;
+}
+.padding-wrapper{
+    padding:5px;
+}
